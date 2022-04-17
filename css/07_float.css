@@ -1,0 +1,25 @@
+body{
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+
+div{
+    width: 90%;
+    margin: 0;
+    background-color: lightsteelblue;
+}
+
+p{
+    background-color: mediumaquamarine;
+}
+
+p span{
+    background-color: yellow;
+}
+
+.boite{
+    height: 11vh;
+    width: 18vh;
+    padding: 5vh;
+    background: url();
+}
