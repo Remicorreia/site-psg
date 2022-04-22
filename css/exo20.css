@@ -1,0 +1,54 @@
+body{
+    width: 50%;
+    margin: auto;
+    background-image: url(../images/pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg);
+    background-size: cover ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    color: white;
+}
+
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    margin-left: 20px;
+}
+p{
+    margin: 5px;
+    padding-right:5px;
+    border-right: 2px white solid;
+}
+
+header{
+    background-color: rgb(255, 255, 255);
+    background-image: url(../images/apple.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 25px;
+    width: auto;
+    height: 120px;
+    margin-top: 30px;
+}
+
+.lui{
+    background: url(../images/title.gif);
+    position: relative;
+    width: auto;
+    height: auto;
+}
+
+main{
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 25px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+h1{
+    color: rgb(0, 162, 255);
+    font-weight: bold;
+    border-bottom: 2px rgb(0, 162, 255) solid;
+    width: auto;
+}
